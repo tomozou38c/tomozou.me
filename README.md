@@ -1,3 +1,3 @@
-### tomozou.meの公開ディレクトリ h2
+### tomozou.meの公開ディレクトリ h3
 
-#### Bootstrapの断片があるけど気にしない　h4
+Bootstrapの断片があるけど気にしない
